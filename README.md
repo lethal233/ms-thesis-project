@@ -1,10 +1,10 @@
-# ms-thesis-project
+# Master Thesis Project
 
-Author: @lethal233
+Author: Shilong Li, M.S. in Software Engineering
 
 Research Group: Software Aurora Lab @ UC Irvine
 
-Topic: Adapting scenoRITA to Autoware
+Topic: Adapting [scenoRITA](https://github.com/Software-Aurora-Lab/scenoRITA-7.0) to Autoware Universe v1.0
 
 Repositories:
 - [autoware_record](https://github.com/lethal233/autoware_record): Python package for reading ROS bag file
